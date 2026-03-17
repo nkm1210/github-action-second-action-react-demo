@@ -12,7 +12,7 @@ jobs:
          node-version: 24
      - name: Install dependency
        run: npm ci
-     - name: Run tests
+     - name: Run tests1
        run: npm test
        
          
